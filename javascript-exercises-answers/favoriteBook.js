@@ -1,3 +1,5 @@
+// FeM Getting to Know JS
+
 // TODO: define addFavoriteBook(..) function
 function addFavoriteBook(bookName) {
 	if (!bookName.includes("Great")) {
