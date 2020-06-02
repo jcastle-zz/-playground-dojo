@@ -1,3 +1,5 @@
+// From FeM Getting to Know JS
+
 /*TODO: define addFavoriteBook(..) function
 - Define an `addFavoriteBook(..)` function that receives a single parameter, called `bookName`.
 - If the provided `bookName` string does *NOT* have the word "Great" in it, add it to the `favoriteBooks` array.
