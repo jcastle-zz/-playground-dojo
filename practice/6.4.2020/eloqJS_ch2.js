@@ -9,13 +9,6 @@ for (let line = '#'; line.length < 8; line += '#' ) {
 // Write a program to write all numbers form 1 to 100
 // For numbers divisible by 3, print "Fizz" instead of the number
 // For number divisible by 5, print "Buzz" instead of the number
-for (let n = 1; n <= 100; n++) {
-    let output = "";
-    if (n % 3 == 0) output += 'Fizz';
-    if (n % 5 == 0) output += 'Buzz';
-    console.log(output || n);
-}
-
 // Print "FizzBuzz" for numbers divisible by both 3 and 5
 
 
